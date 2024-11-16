@@ -9,6 +9,8 @@ Efficient JavaScript Implementation: Developed a streamlined structure to handle
 Focus on Usability: Designed features that ensure smooth performance and intuitive interaction for all users. 📱
 This project demonstrates the power of JavaScript combined with AI to bring visual data analysis to life!
 
+Screenshots
+
 https://github.com/melikeakuzum/AI_Image_Detector/blob/main/screen1.png 
 https://github.com/melikeakuzum/AI_Image_Detector/blob/main/screen2.png
 https://github.com/melikeakuzum/AI_Image_Detector/blob/main/screen3.png
